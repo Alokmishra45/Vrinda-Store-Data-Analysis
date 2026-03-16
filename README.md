@@ -1,6 +1,5 @@
-# Vrinda-Store-Data-Analysis
+## Vrinda-Store-Data-Analysis 📊
 Sales data analysis using Excel to find insights and business trends
-# Vrinda Store Data Analysis 📊
 
 ## Project Overview
 
