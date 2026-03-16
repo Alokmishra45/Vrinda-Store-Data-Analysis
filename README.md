@@ -61,6 +61,6 @@ The complete Excel analysis file is included in this repository.
 
 ## Author
 
-Alok Mishra
+Alok Kumar Mishra
 
 Email - alokm1454@gmail.com
